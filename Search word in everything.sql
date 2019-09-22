@@ -1,3 +1,5 @@
+--https://github.com/fernando-nishino/TSQL.SearchWordinDB
+
 USE master;
 
 DECLARE @SearchedWords AS varchar(1000) = '###WORD(S) TO SEARCH###' --Type Here
